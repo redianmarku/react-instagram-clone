@@ -1,0 +1,48 @@
+.suggestions {
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.suggestions__title {
+  color: grey;
+  font-weight: bold;
+}
+
+.username__left {
+  display: inline-flex;
+}
+
+.username__info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+}
+
+.relation {
+  color: grey;
+  font-size: 12px;
+}
+
+.suggestions__username {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.follow__button {
+  color: #0095f6;
+  font-weight: bold;
+  background: 0;
+  border: 0;
+  margin-right: 5px;
+}
+
+.follow__button:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.username {
+  font-weight: 600;
+  font-size: 14px;
+}
